@@ -1,15 +1,15 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hey there!
 
 ## 👨‍💻 About Me
-I'm a Computer Science graduate student at Arizona State University, currently diving deep into Cloud Computing. With a strong foundation in Information Technology from the University of Mumbai, I am passionate about optimizing software solutions and enhancing user experiences.
+I'm a Computer Science graduate student at Arizona State University, currently diving deep into Cloud Computing. I love exploring new technologies and applying them to practical challenges, always aiming to push the boundaries of what's possible in software development.
 
 ![](https://komarev.com/ghpvc/?username=tanmaysalunke)
 
 ## 🛠 Technologies & Tools
-- **Languages**: Python, JavaScript, Java, C, C++
-- **Frameworks**: React, Node.js, Django, Flask
-- **Tools**: Docker, Git, GitHub Actions, AWS EC2, S3, SQS, Lambda, CloudWatch
-- **Databases**: MySQL, MongoDB, SQLite
+- **Languages**: Python, JavaScript, TypeScript, Java, HTML5, CSS3/SCSS, C, C++
+- **Frameworks**: React.js, Next.js, Node.js, Django, Flask, Tailwind CSS
+- **Tools**: Git/GitHub, AWS (EC2, S3, SQS, CloudFormation, CloudWatch, Boto3), Docker, GitHub Actions, Jira, Figma, WordPress
+- **Databases**: MongoDB, MySQL, SQLite
 
 ## 🌟 Projects
 - **[OptiCloud](https://github.com/tanmaysalunke/OptiCloud)**: A cloud resource optimization platform using Django and Next.js that reduces AWS EC2 operational costs by up to 25% through precise recommendations.
@@ -21,8 +21,9 @@ I'm a Computer Science graduate student at Arizona State University, currently d
 - Spotlight Award at Jio Platforms for agile development
 
 ## 📫 How to Reach Me
-- **LinkedIn**: https://www.linkedin.com/in/tanmay-kishor-salunke-8552a216b/
-- **Website**: https://tanmaysalunke.vercel.app/
+- **Email**: [tanmaysalunke4@gmail.com](mailto:tanmaysalunke4@gmail.com)
+- **LinkedIn**: [tanmay-salunke](https://www.linkedin.com/in/tanmay-salunke-8552a216b/)
+- **Personal Website**: [tanmaysalunke.vercel.app](https://tanmaysalunke.vercel.app)
 
 ## ⚡ Fun Fact
 I love to Game, listen to music and watch TV shows.
