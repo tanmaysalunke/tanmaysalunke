@@ -3,6 +3,8 @@
 ## 👨‍💻 About Me
 I'm a [Your Job Title or Role] specializing in [Primary Technology/Skill]. I'm passionate about [Briefly Describe Your Interests Related to Technology].
 
+![](https://komarev.com/ghpvc/?username=tanmaysalunke)
+
 ## 🛠 Technologies & Tools
 - **Languages**: Python, JavaScript, Java, C, C++
 - **Frameworks**: React, Node.js, Django, Flask
