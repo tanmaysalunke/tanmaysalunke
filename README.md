@@ -1,7 +1,7 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 👨‍💻 About Me
-I'm a [Your Job Title or Role] specializing in [Primary Technology/Skill]. I'm passionate about [Briefly Describe Your Interests Related to Technology].
+I'm a Computer Science graduate student at Arizona State University, currently diving deep into Cloud Computing. With a strong foundation in Information Technology from the University of Mumbai, I am passionate about optimizing software solutions and enhancing user experiences.
 
 ![](https://komarev.com/ghpvc/?username=tanmaysalunke)
 
@@ -12,8 +12,9 @@ I'm a [Your Job Title or Role] specializing in [Primary Technology/Skill]. I'm p
 - **Databases**: MySQL, MongoDB, SQLite
 
 ## 🌟 Projects
-- **[Project Name]**: [Short Description] ([Link to GitHub Repo])
-- **[Another Project Name]**: [Short Description] ([Link to GitHub Repo])
+- **[OptiCloud](https://github.com/tanmaysalunke/OptiCloud)**: A cloud resource optimization platform using Django and Next.js that reduces AWS EC2 operational costs by up to 25% through precise recommendations.
+- **[Course Swap App](http://54.67.32.217/)**: A web application allowing university students to exchange course enrollments efficiently, featuring Google OAuth and automated matching algorithms.
+- **[Software for System Hardware Inventory Management](https://github.com/tanmaysalunke/Puzzles.exe)**: A Django-based system that won the 36-hour Smart India Hackathon, designed for effective inventory management with a hybrid LAN and cloud architecture.
 
 ## 🏆 Achievements
 - Winner - Smart India Hackathon 2022
