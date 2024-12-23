@@ -1,4 +1,4 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px"> Hey there
 
 ## 👨‍💻 About Me
 I'm a Computer Science graduate student at Arizona State University, currently diving deep into Cloud Computing. With a strong foundation in Information Technology from the University of Mumbai, I am passionate about optimizing software solutions and enhancing user experiences.
